@@ -1,0 +1,43 @@
+.containerMain {
+  height: 100vh;
+  background-color: #2E2E2E;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+    h1 {
+      text-transform: uppercase;
+      background-color: #8B0000;
+      color: #fff;
+      width: 40vw;
+      padding: 16px;
+      margin-left: 16px;
+      border-radius: 10px;
+    }
+}
+
+.containerMain section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  height: 80vh;
+  padding: 0px 20px;
+
+  article {
+    cursor: pointer;
+  }
+
+  img {
+    height: 268px;
+  }
+
+  h2 {
+    font-size: 12px;
+    color: #fff;
+  }
+
+  img, h2 {
+    width: 188px;
+  }
+}

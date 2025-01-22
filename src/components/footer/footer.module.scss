@@ -1,0 +1,26 @@
+.footerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 60vh;
+  background-color: #2E2E2E;
+  color: #AFAFAF;
+  padding: 0px 25px;
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      height: 25vh;
+
+        li {
+          list-style: none;
+          width: 30vw;
+        }
+
+        a{
+          font-size: 12px;
+          color: #AFAFAF;
+        }
+    }
+}
