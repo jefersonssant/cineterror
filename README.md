@@ -1,7 +1,7 @@
 # CINETERROR
  
 ## Descrição
-Trata-se de um challenge opcional proposto pelos instrutores do Vai Na Web, criar uma página web com tema livre, o principal objetivo foi explorar o poder do método map() com um array de objetos. As principais tecnologias utilizadas foram Node.js, Vite, React, JavaScript, SASS SCSS.
+Trata-se de um projeto pessoal, criar uma página web de site de filmes, o principal objetivo foi explorar o poder do método map() com um array de objetos. As principais tecnologias utilizadas foram Node.js, Vite, React, JavaScript, SASS SCSS.
 ## Link Vercel e Imagem 
 [https://cineterror.vercel.app/]
 
